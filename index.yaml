@@ -3,12 +3,12 @@ entries:
   nginx-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-15T15:35:41.987529+05:30"
+    created: "2024-07-15T15:38:13.058368+05:30"
     description: A Helm chart for Kubernetes
-    digest: baff104e50113bb4e5427b33c072c5b0d70c4b4767e7d9259a661d03e790d497
+    digest: 33b86c4a7de76dee0c59fdc2d38df2aa507a8f1f91d8472bb5f223c059a67375
     name: nginx-chart
     type: application
     urls:
     - https://abhi-harness-cxe.github.io/helm_repo/nginx-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-15T15:35:41.986766+05:30"
+generated: "2024-07-15T15:38:13.057502+05:30"
